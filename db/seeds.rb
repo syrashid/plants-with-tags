@@ -26,6 +26,30 @@ Plant.create!(
 )
 
 Plant.create!(
+  name: "Philo",
+  image_url: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/philo.jpg",
+  garden: little
+)
+
+Plant.create!(
+  name: "Philo",
+  image_url: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/philo.jpg",
+  garden: little
+)
+
+Plant.create!(
+  name: "Philo",
+  image_url: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/philo.jpg",
+  garden: little
+)
+
+Plant.create!(
+  name: "Philo",
+  image_url: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/philo.jpg",
+  garden: little
+)
+
+Plant.create!(
   name: "Dieff",
   image_url: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/dieffenbachia.jpg",
   garden: other

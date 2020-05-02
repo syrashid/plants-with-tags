@@ -10,3 +10,8 @@ Psuedocode (Add a tag feature to our application)
   - Add associations and validations X
   - Migrate / Seed/ whatever other db actions X
   - Crash test the models
+
+- THEN THE APPLICATIVE BRICK (Routing, Controller, and Views)
+  - create the routes X
+  - create the controller(s) X
+  - create the views

@@ -14,7 +14,7 @@
       <div class="card-category d-flex flex-column" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('<%= plant.image_url %>')">
         <div>
           <%= plant.name %>
-          <%= link_to "+", garden_path(@garden), method: :delete, data: { confirm: "Are you sure?" }, class: "card-remove-link" %>
+          <%= link_to "+", plant_path(plant), data: { confirm: "Are you sure?" }, class: "card-remove-link", method: :delete %>
         </div>
 
         <div class="card-tags">

@@ -1,0 +1,12 @@
+Primary Objectives
+ - Understanding n:n relationships
+ - Doing frontend improvements using JS and webpack (custom and bespoke)
+
+
+Psuedocode (Add a tag feature to our application)
+- START WITH THE DATA BRICK
+  - Generate the "Tag" model X
+  - Generate a model to use as a join table X
+  - Add associations and validations X
+  - Migrate / Seed/ whatever other db actions X
+  - Crash test the models
